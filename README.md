@@ -2,6 +2,8 @@
 
 An interactive text-based dungeon adventure game built with Streamlit, featuring a dark fantasy theme, puzzles, and treasure hunting!
 
+🎮 **[Play the Game](https://dungeon-quest-game.streamlit.app/)** 🎮
+
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
